@@ -1,3 +1,4 @@
+// requires electon modules to create a window that can load an html file
 const {app, BrowserWindow } = require('electron');
 const url = require('url');
 const path = require('path');
